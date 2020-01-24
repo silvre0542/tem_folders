@@ -1,0 +1,27 @@
+*debug.log
+node_modules/
+.env
+*bitcore.config.*
+.vscode
+.DS_Store
+*.swp
+
+# VIM ignore
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# Logs
+logs
+*.log
+*.sw*
+
+# Runtime data
+pids
+*.pid
+*.seed
+ts_build
+bitcore-lib.js

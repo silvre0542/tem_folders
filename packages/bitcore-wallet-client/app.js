@@ -1,0 +1,1 @@
+var Client = require('bitcore-wallet-client');
